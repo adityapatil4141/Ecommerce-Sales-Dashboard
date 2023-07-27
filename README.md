@@ -1,3 +1,3 @@
 # Sales-Dashboard
 
-Madhav Ecommerce store sales dashboard
+Ecommerce store sales dashboard
